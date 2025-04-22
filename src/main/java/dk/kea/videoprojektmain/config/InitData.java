@@ -24,4 +24,5 @@ public class InitData {
     public ArrayList<Car> getCarList() {
         return carList;
     }
+
 }
